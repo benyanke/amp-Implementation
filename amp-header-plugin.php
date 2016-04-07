@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: AMP Implementation
-Plugin URI: http://benyanke.com
+Plugin URI: https://github.com/benyanke/amp-header-plugin/
 Description: Implements google amp in conjunction with Automatic's AMP plugin (required).
 Author: Ben Yanke
 Version: 1.0
-Author URI: http://benyanke.com
+Author URI: https://github.com/benyanke/
  */
 
 /********* Backend *********/
