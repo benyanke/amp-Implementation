@@ -15,7 +15,6 @@ function AddAmpTagsForHeader($buffer) {
 	if (! is_page() ) {
 		echo '<link rel="amphtml" href="' . get_permalink() . '/amp" />\n\n';
 	}
-	
 }
 
 // Add hook
