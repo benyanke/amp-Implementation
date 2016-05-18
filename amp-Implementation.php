@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: AMP Implementation
-Plugin URI: https://github.com/benyanke/amp-Implementation
+Plugin URI: https://github.com/benyanke/amp-implementation
 Description: Implements google amp in conjunction with AUTOMATIC's AMP plugin (required).
 Author: Ben Yanke
 Version: 1.0
